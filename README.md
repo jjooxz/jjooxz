@@ -1,7 +1,6 @@
 ### Olá! Sou Joxz_0.
 
 - 🔞 -18
-- 👨 Masculino
 - 🎥 Streamer [Twitch](https://www.twitch.tv/jjooxz)
 
 [![Linguagem Mais Usada!](https://github-readme-stats.vercel.app/api/top-langs/?username=jjooxz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
