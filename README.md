@@ -6,4 +6,4 @@
 
 [![Linguagem Mais Usada!](https://github-readme-stats.vercel.app/api/top-langs/?username=jjooxz&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![JJoxz's github stats](https://github-readme-stats.vercel.app/api?username=jjooxz&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![JJoxz's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjooxz)](https://github.com/anuraghazra/github-readme-stats)
+[![JJoxz's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjooxz&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
