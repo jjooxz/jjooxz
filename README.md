@@ -48,20 +48,16 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 13 mins       ████████████████████░░░░░   79.32 % 
-CSS                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BigPicD3                 4 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -80,5 +76,5 @@ Dart                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2026 18:53:37 UTC
+ Last Updated on 10/01/2026 18:49:11 UTC
 <!--END_SECTION:waka-->
