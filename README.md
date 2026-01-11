@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue?style=flat)
 
@@ -48,16 +48,21 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        2 hrs 2 mins        ██████████████████░░░░░░░   70.59 % 
+CMake                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+C++                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+The end... again?        2 hrs 52 mins       █████████████████████████   99.46 % 
+BigPicD3                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -76,5 +81,5 @@ Dart                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2026 18:49:11 UTC
+ Last Updated on 11/01/2026 18:49:13 UTC
 <!--END_SECTION:waka-->
