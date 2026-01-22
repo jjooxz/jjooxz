@@ -48,16 +48,19 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     32 mins             ███████████████░░░░░░░░░░   61.49 % 
+TOML                     20 mins             ██████████░░░░░░░░░░░░░░░   38.19 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+D                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DaEngine                 53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -76,5 +79,5 @@ Dart                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 19:03:12 UTC
+ Last Updated on 22/01/2026 18:56:16 UTC
 <!--END_SECTION:waka-->
