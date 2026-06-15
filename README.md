@@ -48,20 +48,16 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Rust                     1 hr 25 mins        ████████████████░░░░░░░░░   65.85 % 
-C                        32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-GLSL                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-EngineJJ                 2 hrs 9 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -81,5 +77,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 20:07:54 UTC
+ Last Updated on 15/06/2026 21:34:45 UTC
 <!--END_SECTION:waka-->
