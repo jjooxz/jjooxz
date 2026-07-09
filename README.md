@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,16 +48,20 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     3 hrs 28 mins       ███████████████████████░░   92.69 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+daw_o_toole              3 hrs 34 mins       ████████████████████████░   95.04 % 
+scanner                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -77,5 +81,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2026 20:05:52 UTC
+ Last Updated on 09/07/2026 20:23:12 UTC
 <!--END_SECTION:waka-->
