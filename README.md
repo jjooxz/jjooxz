@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,16 +48,17 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 4 mins        █████████████████████████   99.84 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+schoolwork               3 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -77,5 +78,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:45:36 UTC
+ Last Updated on 26/07/2026 19:45:25 UTC
 <!--END_SECTION:waka-->
