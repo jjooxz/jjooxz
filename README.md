@@ -5,7 +5,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2033%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,17 +50,28 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   3 hrs 4 mins        █████████████████████████   99.84 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   3 hrs 40 mins       ████████████████░░░░░░░░░   65.51 % 
+Rust                     1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   30.23 % 
+Svelte                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-schoolwork               3 hrs 4 mins        █████████████████████████   100.00 % 
+schoolwork               3 hrs 40 mins       ████████████████░░░░░░░░░   65.60 % 
+champions                1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   32.33 % 
+Champions(medal)         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 36 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
@@ -78,5 +91,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:45:25 UTC
+ Last Updated on 27/07/2026 20:06:02 UTC
 <!--END_SECTION:waka-->
