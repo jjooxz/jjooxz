@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2014%20mins-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 57.1 kB Used in GitHub's Storage 
+> 📦 57.2 kB Used in GitHub's Storage 
  > 
 > 🏆 60 Contributions in the Year 2026
  > 
@@ -50,22 +50,24 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   3 hrs 40 mins       ████████████████░░░░░░░░░   65.51 % 
-Rust                     1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Svelte                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Python                   3 hrs 40 mins       ██████████████░░░░░░░░░░░   54.58 % 
+Rust                     1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+Assembly                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+C                        23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Svelte                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-schoolwork               3 hrs 40 mins       ████████████████░░░░░░░░░   65.60 % 
-champions                1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   32.33 % 
-Champions(medal)         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+schoolwork               3 hrs 40 mins       ██████████████░░░░░░░░░░░   54.66 % 
+champions                1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+FS(from_scratch)         42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+seloco                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Champions(medal)         6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Linux                    5 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,5 +93,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:06:02 UTC
+ Last Updated on 28/07/2026 20:03:07 UTC
 <!--END_SECTION:waka-->
