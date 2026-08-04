@@ -50,24 +50,20 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Rust                     1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   28.45 % 
-C++                      1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-C                        58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Assembly                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+C++                      1 hr 35 mins        █████████████████░░░░░░░░   69.02 % 
+C                        34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+GLSL                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-seloco                   2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.69 % 
-champions                1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   30.42 % 
-FS(from_scratch)         42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-schoolwork               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Champions(medal)         6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+seloco                   2 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,5 +89,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:44:56 UTC
+ Last Updated on 04/08/2026 20:10:07 UTC
 <!--END_SECTION:waka-->
