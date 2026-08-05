@@ -50,20 +50,17 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      1 hr 35 mins        █████████████████░░░░░░░░   69.02 % 
-C                        34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-GLSL                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C++                      51 mins             █████████████████████████   99.44 % 
+GLSL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-seloco                   2 hrs 18 mins       █████████████████████████   100.00 % 
+seloco                   52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,5 +86,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:10:07 UTC
+ Last Updated on 05/08/2026 20:10:37 UTC
 <!--END_SECTION:waka-->
