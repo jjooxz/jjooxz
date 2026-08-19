@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2014%20mins-blue?style=flat)
 
@@ -50,21 +50,21 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               36 mins             ████████████░░░░░░░░░░░░░   49.60 % 
-CSS                      15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+TypeScript               1 hr 58 mins        ███████████████░░░░░░░░░░   61.21 % 
+CSS                      53 mins             ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fudeuawd                 1 hr 9 mins         ████████████████████████░   94.00 % 
-scijkmu                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+fudeuawd                 3 hrs 9 mins        ████████████████████████░   97.72 % 
+scijkmu                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Linux                    1 hr 13 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,5 +90,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:08:08 UTC
+ Last Updated on 19/08/2026 19:03:52 UTC
 <!--END_SECTION:waka-->
