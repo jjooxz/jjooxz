@@ -50,21 +50,21 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Rust                     20 mins             ████████████████████░░░░░   78.77 % 
-Makefile                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Makefile                 1 min               ██████████████░░░░░░░░░░░   55.67 % 
+Svelte                   0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Objective-C              0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fudeuawd                 23 mins             ███████████████████████░░   90.75 % 
-kernelxdxd               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+kernelxdxd               2 mins              █████████████████░░░░░░░░   69.74 % 
+fudeuawd                 1 min               ████████░░░░░░░░░░░░░░░░░   30.26 % 
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+Linux                    3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,5 +90,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:17:25 UTC
+ Last Updated on 29/08/2026 01:52:11 UTC
 <!--END_SECTION:waka-->
