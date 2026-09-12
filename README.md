@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2014%20mins-blue?style=flat)
 
@@ -50,16 +50,18 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Rust                     3 hrs 6 mins        █████████████████████████   100.00 % 
+Rust                     3 hrs 6 mins        ██████████████████████░░░   89.44 % 
+C                        17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Makefile                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Beecrowd                 3 hrs 6 mins        █████████████████████████   100.00 % 
+Beecrowd                 3 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,5 +87,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:11:33 UTC
+ Last Updated on 12/09/2026 20:51:45 UTC
 <!--END_SECTION:waka-->
