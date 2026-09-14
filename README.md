@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2014%20mins-blue?style=flat)
 
@@ -50,18 +50,21 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Rust                     3 hrs 6 mins        ███████████████████░░░░░░   76.10 % 
-C                        54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Makefile                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+C                        3 hrs 39 mins       █████████████░░░░░░░░░░░░   52.45 % 
+Rust                     3 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.74 % 
+Makefile                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Beecrowd                 4 hrs 5 mins        █████████████████████████   100.00 % 
+Beecrowd                 6 hrs 8 mins        ██████████████████████░░░   88.17 % 
+milangu                  49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 
 💻 Operating System: 
-Linux                    4 hrs 5 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,5 +90,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 21:04:35 UTC
+ Last Updated on 14/09/2026 21:58:37 UTC
 <!--END_SECTION:waka-->
