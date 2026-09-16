@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2014%20mins-blue?style=flat)
 
@@ -50,21 +50,21 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C                        5 hrs 42 mins       █████████████████░░░░░░░░   66.74 % 
-Rust                     2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Makefile                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Objective-C              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+C                        6 hrs 8 mins        █████████████████████░░░░   84.94 % 
+Makefile                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Rust                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Objective-C              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Beecrowd                 5 hrs 5 mins        ███████████████░░░░░░░░░░   59.50 % 
-milangu                  3 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.50 % 
+milangu                  4 hrs               ██████████████░░░░░░░░░░░   55.43 % 
+Beecrowd                 3 hrs 13 mins       ███████████░░░░░░░░░░░░░░   44.57 % 
 
 💻 Operating System: 
-Linux                    8 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,5 +90,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:40:55 UTC
+ Last Updated on 16/09/2026 21:36:50 UTC
 <!--END_SECTION:waka-->
