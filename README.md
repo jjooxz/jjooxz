@@ -50,21 +50,20 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C                        8 hrs 3 mins        ██████████████████████░░░   89.60 % 
-Makefile                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Objective-C              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+C                        5 hrs 18 mins       ██████████████████████░░░   86.73 % 
+Makefile                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Objective-C              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-milangu                  6 hrs 56 mins       ███████████████████░░░░░░   77.24 % 
-Beecrowd                 2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+milangu                  6 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,5 +89,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 21:00:36 UTC
+ Last Updated on 21/09/2026 22:08:42 UTC
 <!--END_SECTION:waka-->
