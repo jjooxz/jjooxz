@@ -50,20 +50,19 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C                        5 hrs 18 mins       ██████████████████████░░░   86.73 % 
-Makefile                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Objective-C              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+C                        3 hrs 15 mins       ███████████████████████░░   93.46 % 
+Makefile                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-milangu                  6 hrs 7 mins        █████████████████████████   100.00 % 
+milangu                  3 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,5 +88,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 22:08:42 UTC
+ Last Updated on 22/09/2026 21:36:22 UTC
 <!--END_SECTION:waka-->
