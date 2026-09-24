@@ -50,20 +50,18 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C                        2 hrs 59 mins       ████████████████████████░   96.17 % 
-Makefile                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C                        12 mins             ████████████████████░░░░░   80.67 % 
+Makefile                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Objective-C              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-milangu                  3 hrs 6 mins        █████████████████████████   100.00 % 
+milangu                  15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,5 +87,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:42:20 UTC
+ Last Updated on 24/09/2026 21:43:38 UTC
 <!--END_SECTION:waka-->
