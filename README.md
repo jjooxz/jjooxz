@@ -50,18 +50,16 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C                        12 mins             ████████████████████░░░░░   80.67 % 
-Makefile                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Objective-C              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-milangu                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,5 +85,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jjooxz/jjooxz/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:43:38 UTC
+ Last Updated on 25/09/2026 21:46:23 UTC
 <!--END_SECTION:waka-->
